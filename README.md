@@ -9,8 +9,8 @@
 
 > Reach higher with the help of a dedicated climbing coach.
 
-A climbing tracker app taht helps you spot strength & weaknesses in your climbing style. Interact with the chatbot coach to set relevant and motivating goals. IRenew your climbing to find new depth and emotions, even after years of experience!
-
+A climbing tracker app that helps you spot strength & weaknesses in your climbing style. Interact with the chatbot coach to set relevant and motivating goals.
+Renew your climbing to find new depth and emotions, even after years of experience!
 
 * Free software: MIT
 * Documentation: https://beta-moodule.readthedocs.io.
