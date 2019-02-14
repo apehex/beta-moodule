@@ -1,12 +1,5 @@
 # Beta Moodule
 
-[![Tagged Release][release-shield]](CHANGELOG.md)
-[![Development Status][planning-status-shield]](ROADMAP.md)
-[![Build Coverage][coverage-shield]][coverage-link]
-
-[![Build Status][travis-shield]][travis-link]
-[![Build Status][appveyor-shield]][appveyor-link]
-
 > Reach higher with the help of a dedicated climbing coach.
 
 A climbing tracker app that helps you spot strength & weaknesses in your climbing style. Interact with the chatbot coach to set relevant and motivating goals.
@@ -15,10 +8,10 @@ Renew your climbing to find new depth and emotions, even after years of experien
 * Free software: MIT
 * Documentation: https://beta-moodule.readthedocs.io.
 
-
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Status](#status)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -30,13 +23,35 @@ Renew your climbing to find new depth and emotions, even after years of experien
 - [Credits](#credits)
 - [License](#license)
 
+## Status
+
+[![Development Status][planning-status-shield]](ROADMAP.md)
+
+[![Tagged Release][release-shield]](CHANGELOG.md)
+[![Build Coverage][coverage-shield]][coverage-link]
+
+[![Build Status][travis-shield]][travis-link]
+[![Build Status][appveyor-shield]][appveyor-link]
+
 ## Features
+
+For now the project is being designed on all levels:
+- [the player achievements](ACHIEVEMENTS.md)
+- [the player goals and challenges](OBJECTIVES.md)
+- [the player skills](SKILLS.md)
+- [the application](SOFTWARE.md)
 
 ## Requirements
 
+None yet.
+
 ## Installation
 
+Nothing to install yet.
+
 ## Usage
+
+Read.
 
 ## Development
 
