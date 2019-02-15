@@ -23,7 +23,7 @@ Renew your climbing to find new depth and emotions, even after years of experien
 - [Credits](#credits)
 - [License](#license)
 
-## Status
+## Status
 
 [![Development Status][planning-status-shield]](ROADMAP.md)
 
