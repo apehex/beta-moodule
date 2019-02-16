@@ -72,6 +72,8 @@ See:
 
 # Overview
 
+## Sending Power
+
 - grades over time :
   - warm up time = low grade / max grade
   - peak time
