@@ -36,9 +36,7 @@ Renew your climbing to find new depth and emotions, even after years of experien
 ## Features
 
 For now the project is being designed on all levels:
-- [the player achievements](ACHIEVEMENTS.md)
-- [the player goals and challenges](OBJECTIVES.md)
-- [the player skills](SKILLS.md)
+- [the player skills, goals and achievements](GAMIFICATION.md)
 - [the application](SOFTWARE.md)
 
 ## Requirements

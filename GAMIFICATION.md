@@ -1,6 +1,6 @@
 # Skills
 
-> The physical, technical, mental and organizational skills in climbing.
+> Climbing is demanding, let's make it more fun with game mechanics!
 
 See:
 - Maximum Climbing p21
@@ -11,6 +11,7 @@ See:
 - [Technical Skills](#technical-skills)
 - [Mental Skills](#mental-skills)
 - [Organizational Skills](#organizational-skills)
+- [Overall Skills](#overall-skills)
 
 # Physical Skills
 
@@ -18,13 +19,42 @@ See:
 
 ### Tracking and Debriefing
 
-### Measure
+### Metrics
 
 ### Self-Assessment
 
 ### Exercises
 
+## Finger Strength
+
+- 6s on hangboard, with different size and types of holds
+- campus board up
+- campus up and down
+- 
+
+## Arm Strength
+
+- 10 pull-ups
+- 10x5 pull-ups
+- 1 one-arm pull-up
+- 
+
+## Full Body Strength
+
+- no foot boulder problem
+- no foot on overhanging wall
+
 # Technical Skills
+
+## No Biceps
+
+- full route without flexing the arms
+
+## Foot Placement
+
+## Body Position
+
+- flag
 
 # Mental Skills
 
@@ -33,6 +63,16 @@ See:
 ## Concentration
 
 ## Fear Management
+
+### Objectives and Achievements
+
+- lead
+- no top rope
+- pass a roof
+- climb overhanging wall
+- jump at the end of the climb
+- falling xx times
+- finishing after falling
 
 ## Mind Programming
 
@@ -70,9 +110,13 @@ See:
 - NOT climbing time
 - time using the application ~ motivation
 
-# Overview
+# Overall Skills
 
-## Sending Power
+## Redpointing
+
+## Climbing Level
+
+### Tracking, Metrics and Progression
 
 - grades over time :
   - warm up time = low grade / max grade
@@ -83,3 +127,14 @@ Interpret climbing time:
 - number of times performed a specific exercise
 - ratio out / in
 - repeat count on a project
+
+### Objectives and Achievements
+
+- personal projects & sends
+
+## WTF?
+
+### Tracking, Metrics and Progression
+
+- fall count?
+- zip count?
