@@ -35,6 +35,54 @@ See:
 ### Exercises
 
 <!---------------------------------------------------------------------------->
+## Musculation Balance
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I train and stretch my antagonist muscles to maintai muscle balance,
+  reduce injury risk, and optimize strengh and endurance in my climbing muscles
+
+### Objectives and Achievements
+
+### Exercises
+
+<!---------------------------------------------------------------------------->
+## Reactive Training
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I engage in some kind of reactive or hypergravity training to condition my
+  nervous system to function more efficientlyt during severe climbing movements
+
+### Objectives and Achievements
+
+### Exercises
+
+<!---------------------------------------------------------------------------->
+## Stamina
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I engage in some form of stamina training that will test the limits of my physical
+  capacity to endure a sustained effort
+
+### Objectives and Achievements
+
+### Exercises
+
+<!---------------------------------------------------------------------------->
 ## Finger Strength
 
 - 6s on hangboard, with different size and types of holds
@@ -98,6 +146,25 @@ See:
 # Mental Skills
 
 <!---------------------------------------------------------------------------->
+## Positivity
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- when faced with a tough situation or unexpected adversity, I get inspired
+  and accept the challenge
+- in the wake of an adverse situation, I spin the negative outcome into
+  something positive by identifying a lesson learned or determining a way
+  that it has made me stronger
+- when I get up in the morning,I emmediately think positive, productive
+  thoughts that will help prepare me for the challenges of the day
+
+### Exercises
+
+<!---------------------------------------------------------------------------->
 ## Willpower
 
 ### Tracking and Debriefing
@@ -135,10 +202,44 @@ See:
 <!---------------------------------------------------------------------------->
 ## Concentration
 
-<!---------------------------------------------------------------------------->
-## Fear Management
+### Tracking and Debriefing
 
-### Objectives and Achievements
+### Metrics
+
+### Self-Assessment
+
+- in preparing for and engaging on a climb, I detach myself from
+  outcome-oriented thought and the need of success and instead dwell on the
+  process of climbing and the experience of the movement
+
+### Objectives and Achievements
+
+### Exercises
+
+
+<!---------------------------------------------------------------------------->
+## Searching for the Right Movement
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I'm proactive in managing risk in order to reduce the fear factor, control
+  arousal, and improve my chances for a safe, successful climb
+- I become distracted due to the hardships and unknowns of the climb
+- I get nervous and afraid heading up on an on-sight, project, or
+  competition route
+- I ponder the potential for embarassment and become anxious because of the
+  uncertainty of the outcome
+- when lead climbing a safe route, I push myself to the complete limit and,
+  if I fall, I fall trying
+- I make ecuses for why I might fail on a route before I even begin to climb
+
+### Objectives and Achievements
+
+### Exercises
 
 - lead
 - no top rope
@@ -151,29 +252,158 @@ See:
 <!---------------------------------------------------------------------------->
 ## Mind Programming
 
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I visualize strategy, process, and the ideal outcome in all important tasks
+  I undertake
+- in preparing for a difficul climb, I strive to preprogram the ascent by
+  vividly visualizing myself climbing the route, feeling the moves, before
+  I leave the ground
+- I use self-talk and mantras to maintain focus, aid execution, and sustain
+  effort during a hard undertaking
+- I try to stimulate the moves and muscleaction needed for a current project
+  or upcoming climb
+- I engage in meditation, visualization, or some form of mental exercise to
+  prepare my mind and body for future activities and goals
+- in the time leading up to an important goal, I utilize rituals and routines
+  that past experience has proven to put me in the best frame of mind and
+  physical state for peak performance
+
+### Objectives and Achievements
+
+### Exercises
+
 <!---------------------------------------------------------------------------->
 ## Behavior Modification
 
-<!---------------------------------------------------------------------------->
-## Self-Awareness
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I'm able to create motivation to train or climb when I'm feeling tired,
+  depressed and unproductive
+- I can give up things that I recognize are holding me back from my goals
+- once I've identified them, I am able to break bad habits of mind and
+  technique that limit my ability and slow progress
+- when I find myself procrastinating, I can create positive energy and take
+  some action toward a worthy goal
+- when criticism and or other outside factors trigger negative thoughts and
+  feelings, I can quickly let go of the anger and regain a positive,
+  self-confident state
+
+### Objectives and Achievements
+
+### Exercises
 
 <!---------------------------------------------------------------------------->
-## Control of State
+## (Self-)Awareness
 
-- mood
-- fatigue
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- throughout the day I'm aware of my decision-making processes, the direction
+  and quality of my thought, and the outside triggers that affect my thoughts
+- I monitor how I feel and assess the quality of my thoughts and actions
+- I ponder my true motives for the things I do, big and small
+- in making major decisions, I consider and leverage my hierarchy of personal
+  values
+
+### Objectives and Achievements
+
+### Exercises
+
+<!---------------------------------------------------------------------------->
+## Controlling your State
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I get anxious, tight, and hesitant as I climb a crux sequence, and I have a
+  tough time preventing this
+- I get angry or frustrated when I struggle or fall on a route or encounter
+  unexpected difficulties
+- I can regain a positive mind-set and optimie arousal at reste positions, between
+  attempts on a climb, or during a competition
+- after a bad day of climbing or a poor road trip, I can quickly shake off
+  the disappointment and regain a positive, productive, future-oriented frame of mind
+- I can find a way to enjoy almost any day even if I'm not climbing well
+  or things aren't going as planned
+- if I'm feeling anxious or scared before a climb, I take a mental inventory of
+  past successes and remind myself of my experience and preparation in order to
+  create a more effective mental state for climbing
+
+### Objectives and Achievements
+
+### Exercises
 
 <!---------------------------------------------------------------------------->
 # Organizational Skills
 
 <!---------------------------------------------------------------------------->
-## Goal Setting
+## Goal Setting
 
-- for the training sessions
-- projects
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I set specific goals for my daily training and each climbing outing, as
+  opposed to making it up on the go
+- at some point each week, I review my long-term climbing and life goals, then
+  mentally work backward to determine what short-term actions I should take
+  to remain on course
+
+### Objectives and Achievements
+
+### Exercises
 
 <!---------------------------------------------------------------------------->
-## Trip Preparation
+## Looking for Clues
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I solicit my partner for an assessment of how well I appear to be climbing
+  and what aspect of my game need improvement
+
+### Objectives and Achievements
+
+### Exercises
+
+<!---------------------------------------------------------------------------->
+## Preparing
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I plan my training far in advance to prepare for a specific climb, trip,
+  or expedition; or as a way to keep things progressive and avoid overtraining
+- I study a route extensively to develop strategies for a successful ascent,
+  imagining possible sequences, gear placement, and rest positions as well as
+  developing what-if scenarios to aid risk management
+
+### Objectives and Achievements
+
+### Exercises
 
 <!---------------------------------------------------------------------------->
 ## Resting
