@@ -51,22 +51,6 @@ See:
 ### Exercises
 
 <!---------------------------------------------------------------------------->
-## Reactive Training
-
-### Tracking and Debriefing
-
-### Metrics
-
-### Self-Assessment
-
-- I engage in some kind of reactive or hypergravity training to condition my
-  nervous system to function more efficientlyt during severe climbing movements
-
-### Objectives and Achievements
-
-### Exercises
-
-<!---------------------------------------------------------------------------->
 ## Stamina
 
 ### Tracking and Debriefing
@@ -82,6 +66,9 @@ See:
 
 ### Exercises
 
+- climbing intervals: 1v1, 2v2, 3v3, 4v4, 3v3, 2v2, 1v1
+- running intervals: 20s 100%, 10s 0% x8
+
 <!---------------------------------------------------------------------------->
 ## Finger Strength
 
@@ -93,16 +80,38 @@ See:
 <!---------------------------------------------------------------------------->
 ## Arm Strength
 
-- 10 pull-ups
-- 10x5 pull-ups
-- 1 one-arm pull-up
-- 
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+### Objectives and Achievements
+
+### Exercises
+
+- hypergravity training
+- feet off bouldering
 
 <!---------------------------------------------------------------------------->
 ## Full Body Strength
 
-- no foot boulder problem
-- no foot on overhanging wall
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- I engage in some kind of reactive or hypergravity training to condition my
+  nervous system to function more efficientlyt during severe climbing movements
+
+### Objectives and Achievements
+
+### Exercises
+
+- hypergravity: weighted boulder / finger hang / HIT
+- reactive: one arm lunging / campus touching
+- "complex training": alternate between boulders and musculation
 
 <!---------------------------------------------------------------------------->
 # Technical Skills
@@ -128,6 +137,17 @@ See:
 ### Objectives and Achievements
 
 ### Exercises
+
+- practice climbing
+- trial and error rather than rationalizing
+- blocked pratice = repeating movements
+- try and master each route, do not be content of just sending
+- fatigued pratice to nail a movement / sequence, be most efficient
+- restricted pratice:
+  - frog-leg
+  - high-step
+  - tennis ball
+  - straight arm
 
 <!---------------------------------------------------------------------------->
 ## No Biceps
@@ -345,6 +365,10 @@ See:
   create a more effective mental state for climbing
 
 ### Objectives and Achievements
+
+- Do an emotional introspection / bilan:
+  - list the emotional triggers (strong & mildy positive + negative)
+  - relate the emotional state: duration, context etc
 
 ### Exercises
 
