@@ -2,8 +2,9 @@
 
 > Climbing is demanding, let's make it more fun with game mechanics!
 
-See:
-- Maximum Climbing p21
+See p91:
+- p21 for the self-assessment
+- p91 for the technical clues
 
 <!---------------------------------------------------------------------------->
 # Table of Contents
@@ -32,7 +33,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Musculation Balance
@@ -48,7 +49,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Stamina
@@ -64,7 +65,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 - climbing intervals: 1v1, 2v2, 3v3, 4v4, 3v3, 2v2, 1v1
 - running intervals: 20s 100%, 10s 0% x8
@@ -88,7 +89,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 - hypergravity training
 - feet off bouldering
@@ -107,7 +108,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 - hypergravity: weighted boulder / finger hang / HIT
 - reactive: one arm lunging / campus touching
@@ -136,7 +137,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 - practice climbing
 - trial and error rather than rationalizing
@@ -157,10 +158,35 @@ See:
 <!---------------------------------------------------------------------------->
 ## Foot Placement
 
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- precise quiet foot placement
+
+### Objectives and Achievements
+
+### Exercises and Habits
+
 <!---------------------------------------------------------------------------->
 ## Body Position
 
-- flag
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- handholds are gripped lightly
+- use of nonpositive handholds
+- use of flagging
+- hand foot
+
+### Objectives and Achievements
+
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 # Mental Skills
@@ -182,7 +208,11 @@ See:
 - when I get up in the morning,I emmediately think positive, productive
   thoughts that will help prepare me for the challenges of the day
 
-### Exercises
+### Exercises and Habits
+
+- be a spin-doctor: keep the good
+- use optimism as a tool: assume a positive outcome, look for the motivating
+- reverse paranoid: things support me toward success (imagine if xxx didn't exist)
 
 <!---------------------------------------------------------------------------->
 ## Willpower
@@ -201,7 +231,7 @@ See:
   - that the gear will hold a big fall
   - that I'm capable of climbing that section without falling
 
-### Exercises
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Self-Concept
@@ -217,7 +247,7 @@ See:
 - I get down on myself and question my ability and worth when
   I struggle on a climb or have an off day
 
-### Exercises
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Concentration
@@ -234,8 +264,23 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+- make an inventory of your concentration killers:
+  - sensory distractions
+  - focusing on the past
+  - focusing on the future
+  - dwelling on internal feelings, sensations of fatigue
+  - entertaining non-productive self-talk
+  - focusing on the mechanics
 
+### Exercises and Habits
+
+- taking care of distractions before engaging in an activity
+- use rituals to focus
+- keep your eyes on task relevant targets
+- clock drill
+- singular focus climbing
+- attention-shifting drill
+- breathing
 
 <!---------------------------------------------------------------------------->
 ## Searching for the Right Movement
@@ -259,7 +304,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 - lead
 - no top rope
@@ -295,7 +340,10 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
+
+- mental rehearsal: visualize the route, feel the movements
+- bedtime affirmation: use strong ideas and images as you wake up / go to sleep
 
 <!---------------------------------------------------------------------------->
 ## Behavior Modification
@@ -319,7 +367,20 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+- make an inventory of limiting behaviors:
+  - situation
+  - thoughts / reactions / habits
+  - how I want to behave
+
+### Exercises and Habits
+
+- imagine the pain of inaction
+- split tasks into smaller chunks:
+  - with a well-defined goal
+  - doable in one go (30min of pure focus)
+- match your breathing with action
+- walk, talk, act like you've got it
+- the crux is to engage, then you're done 
 
 <!---------------------------------------------------------------------------->
 ## (Self-)Awareness
@@ -336,10 +397,13 @@ See:
 - I ponder my true motives for the things I do, big and small
 - in making major decisions, I consider and leverage my hierarchy of personal
   values
+- personal values
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
+
+- meditation and observing your thoughts
 
 <!---------------------------------------------------------------------------->
 ## Controlling your State
@@ -370,7 +434,49 @@ See:
   - list the emotional triggers (strong & mildy positive + negative)
   - relate the emotional state: duration, context etc
 
-### Exercises
+### Exercises and Habits
+
+- deep breathing
+- direct muscle relaxation (consciously relax)
+- ANSWER sequence
+- change posture (stand upstraight etc)
+- turn self-talk to positive ideas and images
+- create anchors to positive states
+- take a mental inventory of positive ideas, emotions, situations, memories etc
+
+<!---------------------------------------------------------------------------->
+## Managing Fear
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- what types of fear strikes you the most:
+  - unknown
+  - failing
+  - falling
+
+### Objectives and Achievements
+
+- make an inventory of your fears, and for each one:
+  - what are the triggers ?
+  - look for objective reasons
+  - can you reduce the risk:
+    - with preparation
+    - by proactiviely looking for clues
+  - imagine and accept the possible outcomes
+  - imagine the best reaction
+
+### Exercises and Habits
+
+- take practice falls
+- change the interpretation of the fear signals
+- breath
+- interpret failure and criticism as opportunities to improve
+- accept the unknown: if you wanted to stay in the routine, you shouldn't
+  have gone out
 
 <!---------------------------------------------------------------------------->
 # Organizational Skills
@@ -392,7 +498,12 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
+
+- set long-term goals, make them challenging and meaningful
+- ... short-term ...
+- ... life ...
+- identify gaps and motivations to improve
 
 <!---------------------------------------------------------------------------->
 ## Looking for Clues
@@ -408,7 +519,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Preparing
@@ -427,10 +538,22 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Resting
+
+### Tracking and Debriefing
+
+### Metrics
+
+### Self-Assessment
+
+- use of rests positions
+
+### Objectives and Achievements
+
+### Exercises and Habits
 
 <!---------------------------------------------------------------------------->
 ## Training Coherence
@@ -446,7 +569,7 @@ See:
 
 ### Objectives and Achievements
 
-### Exercises
+### Exercises and Habits
 
 - session types
 - climbing styles and locations
