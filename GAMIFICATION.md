@@ -1,4 +1,4 @@
-# Skills
+# Gamification
 
 > Climbing is demanding, let's make it more fun with game mechanics!
 
@@ -616,3 +616,4 @@ Interpret climbing time:
 
 - fall count?
 - zip count?
+
